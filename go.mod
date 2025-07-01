@@ -32,7 +32,7 @@ require (
 	github.com/martinboehm/golang-socketio v0.0.0-20180414165752-f60b0a8befde
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
-	github.com/pebbe/zmq4 v1.2.1
+	github.com/pebbe/zmq4 v1.2.11
 	github.com/prometheus/client_golang v1.8.0
 	github.com/schancel/cashaddr-converter v0.0.0-20181111022653-4769e7add95a
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
@@ -65,7 +65,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	golang.org/x/sys v0.0.0-20210816183151-1e6c022a8912 // indirect
-	google.golang.org/protobuf v1.23 // indirect
+	google.golang.org/protobuf v1.23.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )
 
