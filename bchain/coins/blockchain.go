@@ -139,7 +139,7 @@ func init() {
 	BlockChainFactories["Monacoin"] = monacoin.NewMonacoinRPC
 	BlockChainFactories["Monacoin Testnet"] = monacoin.NewMonacoinRPC
 	BlockChainFactories["MonetaryUnit"] = monetaryunit.NewMonetaryUnitRPC
-	BlockChainFactories["Metrix"] = mrx.NewQtumRPC
+	BlockChainFactories["METRIX"] = mrx.NewQtumRPC
 	BlockChainFactories["DigiByte"] = digibyte.NewDigiByteRPC
 	BlockChainFactories["DigiByte Testnet"] = digibyte.NewDigiByteRPC
 	BlockChainFactories["Myriad"] = myriad.NewMyriadRPC
