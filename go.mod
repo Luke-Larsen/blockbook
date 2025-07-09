@@ -32,7 +32,7 @@ require (
 	github.com/martinboehm/golang-socketio v0.0.0-20180414165752-f60b0a8befde
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
-	github.com/pebbe/zmq4 v1.2.11
+	github.com/pebbe/zmq4 v1.4.0
 	github.com/prometheus/client_golang v1.8.0
 	github.com/schancel/cashaddr-converter v0.0.0-20181111022653-4769e7add95a
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
